@@ -2,12 +2,12 @@
 
 ## Getting Started
 
-Follow the steps in the [Installation Guide](./docs/INSTALLATION.md) to set up and run the complaint system locally.
+Follow the steps to set up and run the complaint system locally.
 npm install
 
 ## Contribution
 
-Contributions are welcome! Refer to [Contribution Guidelines](./CONTRIBUTING.md) for more details.
+Contributions are welcome! Refer for more details.
 
 ## License
 
